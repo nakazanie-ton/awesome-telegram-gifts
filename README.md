@@ -68,6 +68,7 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 ## Bots & Applications
 
+- [TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot) - Free utility mini app bots: expense splitting, countdowns, habits, timers, reminders and polls, each with a public guide library.
 *Ready-to-use bots and applications that implement Telegram Gifts functionality*
 
 - [Gifts Buyer](https://github.com/bohd4nx/Gifts-Buyer#readme) - An automated Telegram userbot that purchases new gifts as they become available in the Telegram store.
