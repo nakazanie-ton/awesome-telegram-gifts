@@ -14,6 +14,7 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 - [Search & Pricing Tools](#search--pricing-tools)
 - [Data & Analytics](#data--analytics)
 - [Bots & Applications](#bots--applications)
+- [TG Gifts / Web3 Radar](https://tggifts.com/floors) - Live floor prices for Telegram gift collections, free gift and username valuation from real Fragment sales, open daily floor data ([w3radar/telegram-gift-floors](https://github.com/w3radar/telegram-gift-floors)) and a bot with below-floor alerts (@w3radar_bot).
 
 ---
 
