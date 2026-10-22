@@ -49,7 +49,7 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 - [Tonnel Notifications](https://t.me/tonnel_notifications_bot) - Bot for tracking gifts using filters on @Tonnel_Network_bot.
 - [Gifts Floor Calculator](https://t.me/giftsfloorbot) - Telegram Profile gifts list calculator based on floor price.
 - [NFT GIFT Calculator](https://t.me/PriceNFTbot) - Telegram Profile gifts list calculator based on floor price.
-- [TG Gifts / Web3 Radar](https://tggifts.com/floors) - Live floor prices for Telegram gift collections, free gift and username valuation from real Fragment sales, open daily floor data ([w3radar/telegram-gift-floors](https://github.com/w3radar/telegram-gift-floors)) and a bot with below-floor alerts (@w3radar_bot).
+- [TG Gifts / Web3 Radar](https://tggifts.com/floors) - Telegram gift floor prices and gift/username valuations using public Fragment listings and sales, with [open daily floor data](https://github.com/w3radar/telegram-gift-floors). Includes one free valuation per day and optional paid alerts and extra valuations via the [Web3 Radar bot](https://t.me/w3radar_bot).
 
 ---
 
