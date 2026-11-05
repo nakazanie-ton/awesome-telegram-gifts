@@ -36,7 +36,7 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 - [Portals Market](https://t.me/portals) - Open the portal. Trade your gifts.
 - [Prime Gifts](https://t.me/primegiftsbot) - Gifts marketplace with giveaways and case openings.
 - [MRKT](https://t.me/mrkt) - Gifts marketplace.
-
+- [Bubble](https://t.me/bubbl) - Aggregator of every Telegram gift marketplace in one Mini App: listings from MRKT, Portals, Tonnel, Getgems and Telegram's market in one feed, plus orders, offers, swaps and gift with 0% added fee ↔ TON NFT conversion.
 ---
 
 ## Search & Pricing Tools
