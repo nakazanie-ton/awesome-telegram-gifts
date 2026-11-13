@@ -66,7 +66,7 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 - [Tonnel Buy Orders](https://t.me/TonnelOrder) - Buy Orders in Tonnel Gift Marketplace.
 - [Gift Monitor](https://t.me/GiftMonitor) - Gift floor price realtime monitoring.
 - [Telegram Gifts Floor Price](https://github.com/Atlannn/telegram-gifts-floor-price) - Open daily dataset of Fragment gift collection floor prices in GRAM, with USD and EUR rates and a free static JSON API (no key). `Python`
-- [Sales Tracker](https://salestracker.tg) - Live floor prices, market caps and every sale for all Telegram gift collections, models, collectible usernames and anonymous numbers, with [open daily data](https://github.com/05v/telegram-gift-data) (CSV/JSON, CC BY 4.0) and an inline bot, [@SalesBot](https://t.me/SalesBot).
+- [Sales Tracker](https://salestracker.tg) - Live floor prices, market caps and every sale for all Telegram gift collections, models, collectible usernames and anonymous numbers, with [open data](https://salestracker.tg/data) (CSV/JSON, CC BY 4.0) and an inline bot, [@SalesBot](https://t.me/SalesBot).
 
 
 ---
