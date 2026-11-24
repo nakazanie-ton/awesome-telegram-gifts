@@ -46,6 +46,7 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 - [Peek](https://peek.tg/search) - Gift search app.
 - [Get Gifts](https://t.me/getSendGiftsProBot) - Profile gifts pricing bot.
+- [Gift Radar](https://t.me/gift_radar_floor_bot) - Alert bot for gift traders: listings priced below the floor of their own model on Portals and MRKT with profit after fees, plus collection floor drop alerts. Free tier with a 15-minute delay, RU/EN.
 - [NFT Sniffer](https://t.me/NFTSnifferBot) - Easily and simply find owners of hidden gifts in Telegram.
 - [Tonnel Notifications](https://t.me/tonnel_notifications_bot) - Bot for tracking gifts using filters on @Tonnel_Network_bot.
 - [Gifts Floor Calculator](https://t.me/giftsfloorbot) - Telegram Profile gifts list calculator based on floor price.
